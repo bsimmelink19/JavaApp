@@ -69,7 +69,7 @@ public class Window extends JComponent implements ActionListener{
 		frame.add(LeftPanel, BorderLayout.WEST); 
 		 
 		repaint(); 
-		revalidate();
+		frame.revalidate();
 	}
 	@Override
 	public void actionPerformed(ActionEvent e) {
