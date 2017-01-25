@@ -1,0 +1,22 @@
+You start your turn with 1 Action and 1 Buy. This means you can play one 
+Action card in the Action Phase, and buy one card in the Buy phase. Your turn consists of 
+the Action phase, the Buy phase and the Clean-up phase.
+A – Action phase
+You may play an Action card from your hand. Follow the instructions on the card. See 8. Playing a card.
+After you have fully resolved an Action card, you may play another Action card, 
+but only if you have an unused Action remaining. (Some cards give more Actions.)
+B – Buy phase
+First, you may play as many Treasure cards as you like from your hand, in any order. For each card, 
+follow the instructions on the card. Treasures produce coins, but may also do other things. 
+After you have played your Treasure cards, you may buy a card 
+by using (paying) any of the coins you have produced this turn. 
+The card can cost no more than the unused coins you have left, 
+but may cost less. A card costing 0 coins can be bought even when you have no coins.
+You may only buy a card that is available in the Supply. You then gain it in your deck.
+If you have more Buys, you may buy more cards, for the unused coins you have left. (Some cards give more Buys.)
+C – Clean-up phase
+Discard all the cards in your play area and all the cards left in your hand. Discard these cards in any order, 
+but when you discard your hand, discard it all at once.
+Then draw a new hand of 5 cards from your deck. See 14. Moving cards from your deck.
+the game ends at the end of a player's turn if either the pile of Provinces is empty, or any 3 
+Supply piles are empty. Your discard pile, and your hand, are put in your deck before counting victory points.  
