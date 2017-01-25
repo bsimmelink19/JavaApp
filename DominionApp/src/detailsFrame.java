@@ -35,6 +35,7 @@ public class detailsFrame extends JComponent implements ActionListener{
 	forgeb.addActionListener(this); 
 	GreatHall greathall = new GreatHall();
 	cardButton greathallb = new cardButton(greathall,0); 
+	greathallb.addActionListener(this); 
 	Harem harem = new Harem(); 
 	cardButton haremb = new cardButton(harem, 0); 
 	haremb.addActionListener(this); 
